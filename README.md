@@ -26,4 +26,5 @@ Make sure you have Cisco Packter tracer installed on your local machine (laptop,
 8.  EIGRP https://github.com/Dhikshit-12/CCNA/blob/main/EIGRP.pkt'
 9.  DHCP Agent https://github.com/Dhikshit-12/CCNA/blob/main/DHCP%20Agent.pkt
 10. Access Control List https://github.com/Dhikshit-12/CCNA/blob/main/ACL.pkt
+11. DNS Snooping https://github.com/Dhikshit-12/CCNA/blob/main/DNS%20Snooping.pkt
 
