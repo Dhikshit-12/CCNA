@@ -17,4 +17,5 @@ Make sure you have Cisco Packter tracer installed on your local machine (laptop,
 
 ## List of experiments :
 1.  Basic Configuration https://github.com/Dhikshit-12/CCNA/blob/main/Basic%20Configurations.pkt
+2.  Static Flowing https://github.com/Dhikshit-12/CCNA/blob/main/Static%20Flowing.pkt
 
