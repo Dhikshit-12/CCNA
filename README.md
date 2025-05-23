@@ -20,4 +20,5 @@ Make sure you have Cisco Packter tracer installed on your local machine (laptop,
 2.  Static Flowing https://github.com/Dhikshit-12/CCNA/blob/main/Static%20Flowing.pkt
 3.  Telnet https://github.com/Dhikshit-12/CCNA/blob/main/Telnet.pkt
 4.  DHCP https://github.com/Dhikshit-12/CCNA/blob/main/DHCP.pkt
+5.  TFTP Backup https://github.com/Dhikshit-12/CCNA/blob/main/TFTP%20Backup.pkt
 
