@@ -16,5 +16,5 @@ You can download these .pkt files and run them on cisco packet tracer on your la
 Make sure you have Cisco Packter tracer installed on your local machine (laptop, desktop). Then go to any .pkt file that you want to see, use or try on your Packet Tracer. Click on download button to download that file. After installation, you will be able to open it on your Packet Tracer and make changes to it.
 
 ## List of experiments :
-1.  Basic Configuration
+1.  Basic Configuration https://github.com/Dhikshit-12/CCNA/blob/main/Basic%20Configurations.pkt
 
