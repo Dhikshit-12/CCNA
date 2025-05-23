@@ -22,4 +22,5 @@ Make sure you have Cisco Packter tracer installed on your local machine (laptop,
 4.  DHCP https://github.com/Dhikshit-12/CCNA/blob/main/DHCP.pkt
 5.  TFTP Backup https://github.com/Dhikshit-12/CCNA/blob/main/TFTP%20Backup.pkt
 6.  Basic wifi Configuration https://github.com/Dhikshit-12/CCNA/blob/main/Basic%20Wifi%20Configuration.pkt
+7.  Routing Information Protocol https://github.com/Dhikshit-12/CCNA/blob/main/Routing%20Information%20Protocol.pkt
 
